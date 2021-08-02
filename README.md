@@ -1,7 +1,5 @@
 # An exploration of health and happiness data from the General Social Survey
 
-## Capstone 1 for the Galvanize Data Science Immersive
-
 ## Technologies Used
 
 * Pandas
